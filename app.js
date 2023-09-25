@@ -1,4 +1,4 @@
- var myName = "my name is waqas hussain"
+ var myName = "my name is muhammad imam"
 var myAge = "34 years old"
 var course = "Certified Mobile Application Development"
 var pizza = "pizza\npizz\npiz\npi\np"
